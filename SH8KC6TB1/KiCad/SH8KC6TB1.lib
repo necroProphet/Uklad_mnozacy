@@ -1,0 +1,31 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model SH8KC6TB1
+#/16514026/2206547/2.50/8/2/Integrated Circuit
+DEF SH8KC6TB1 IC 0 30 Y Y 1 F N
+F0 "IC" 1650 300 50 H V L CNN
+F1 "SH8KC6TB1" 1650 200 50 H V L CNN
+F2 "SOIC127P600X175-8N" 1650 100 50 H I L CNN
+F3 "https://fscdn.rohm.com//en/products/databook/datasheet/discrete/transistor/mosfet/sh8kc6tb1-e.pdf" 1650 0 50 H I L CNN
+F4 "60V Dual Nch+Nch, SOP8, Power MOSFET" 1650 -100 50 H I L CNN "Description"
+F5 "1.75" 1650 -200 50 H I L CNN "Height"
+F6 "ROHM Semiconductor" 1650 -300 50 H I L CNN "Manufacturer_Name"
+F7 "SH8KC6TB1" 1650 -400 50 H I L CNN "Manufacturer_Part_Number"
+F8 "755-SH8KC6TB1" 1650 -500 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.co.uk/ProductDetail/ROHM-Semiconductor/SH8KC6TB1?qs=QNEnbhJQKvZOtqarXY16MQ%3D%3D" 1650 -600 50 H I L CNN "Mouser Price/Stock"
+F10 "" 1650 -700 50 H I L CNN "Arrow Part Number"
+F11 "" 1650 -800 50 H I L CNN "Arrow Price/Stock"
+DRAW
+X TR1_SOURCE 1 0 0 200 R 50 50 0 0 P
+X TR1_GATE 2 0 -100 200 R 50 50 0 0 P
+X TR2_SOURCE 3 0 -200 200 R 50 50 0 0 P
+X TR2_GATE 4 0 -300 200 R 50 50 0 0 P
+X TR1_DRAIN_2 8 1800 0 200 L 50 50 0 0 P
+X TR1_DRAIN_1 7 1800 -100 200 L 50 50 0 0 P
+X TR2_DRAIN_2 6 1800 -200 200 L 50 50 0 0 P
+X TR2_DRAIN_1 5 1800 -300 200 L 50 50 0 0 P
+P 5 0 1 6 200 100 1600 100 1600 -400 200 -400 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library
