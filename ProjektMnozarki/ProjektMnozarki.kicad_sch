@@ -4476,7 +4476,7 @@
 				)
 			)
 		)
-		(property "Value" "${SIM.PARAMS}"
+		(property "Value" "RC4580IDR"
 			(at 175.26 134.0551 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6134,7 +6134,7 @@
 				)
 			)
 		)
-		(property "Value" "${SIM.PARAMS}"
+		(property "Value" "LMH6612MA"
 			(at 109.22 92.1451 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6586,7 +6586,7 @@
 				)
 			)
 		)
-		(property "Value" "${SIM.PARAMS}"
+		(property "Value" "LMH6612MA"
 			(at 147.32 94.6851 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8638,7 +8638,7 @@
 				)
 			)
 		)
-		(property "Value" "${SIM.PARAMS}"
+		(property "Value" "RC4580IDR"
 			(at 260.35 94.6851 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8850,7 +8850,7 @@
 				)
 			)
 		)
-		(property "Value" "${SIM.PARAMS}"
+		(property "Value" "RC4580IDR"
 			(at 218.44 136.5951 0)
 			(show_name no)
 			(do_not_autoplace no)
