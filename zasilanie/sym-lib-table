@@ -1,0 +1,5 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "LM2611AMF") (type "KiCad") (uri "${KIPRJMOD}/proj_libs/LM2611AMF.kicad_sym") (options "") (descr ""))
+	(lib (name "LT1761ES5-SDPBF") (type "KiCad") (uri "${KIPRJMOD}/proj_libs/LT1761ES5-SDPBF.kicad_sym") (options "") (descr ""))
+)
