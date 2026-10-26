@@ -11,3 +11,16 @@ https://www.tme.eu/pl/details/lm2903pt/komparatory-smd/stmicroelectronics/
 
 SH8KC6TB1 to dwa tranzystory n-mos w jednej obudowie. 
 https://www.tme.eu/en/details/sh8kc6tb1/multi-channel-transistors/rohm-semiconductor/
+
+# Zasilanie (w wersji 1)
+## Napięcie dodatnie
+LT1761ES5-SD#TRMPBF -> https://www.tme.eu/pl/details/lt1761es5-sdtrmpbf/stabilizatory-napiecia-regulowane-ldo/analog-devices/lt1761es5-sd-trmpbf/
+
+## Napięcie ujemne
+
+
+LM2611AMF -> https://www.tme.eu/pl/details/lm2611amf_nopb/regulatory-napiecia-uklady-dc-dc/texas-instruments/
+
+Dioda: https://www.tme.eu/pl/details/mbr0520lt1g/diody-schottky-smd/onsemi/
+Cewka L2 https://www.tme.eu/pl/details/sdr0604-470kl/dlawiki/bourns/
+Cewka L1 https://www.tme.eu/pl/details/sdr0604-150yl/dlawiki/bourns/
