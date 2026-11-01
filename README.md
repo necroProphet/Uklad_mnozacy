@@ -3,8 +3,8 @@
 LMH6612MA to są dwa OPAMPy w jednej obudowie. Są R2R output i mają szerokie pasmo. Będziemy potrzebować dwóch kostek.
 https://www.tme.eu/pl/details/lmh6612ma/wzmacniacze-operacyjne-smd/texas-instruments/
 
-OPA1671 to OPAMP. Będziemy potrzebować jedenj kostki na bufor. Są R2R input i output.
-https://www.tme.eu/en/details/opa1671idbvr/rtv-audio-integrated-circuits/texas-instruments
+OPA197IDBVR to OPAMP. Będziemy potrzebować jedenj kostki na bufor. Są R2R input i output.
+https://www.tme.eu/pl/details/opa197idbvr/wzmacniacze-operacyjne-smd/texas-instruments
 
 LM2903 to komparator analogowy z wyjściem typu open-colector. W obudowie są dwa komparatory - jeden zostanie wolny.
 https://www.tme.eu/pl/details/lm2903pt/komparatory-smd/stmicroelectronics/
