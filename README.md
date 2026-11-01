@@ -7,7 +7,7 @@ OPA197IDBVR to OPAMP. Będziemy potrzebować jedenj kostki na bufor. Są R2R inp
 https://www.tme.eu/pl/details/opa197idbvr/wzmacniacze-operacyjne-smd/texas-instruments
 
 LM2903 to komparator analogowy z wyjściem typu open-colector. W obudowie są dwa komparatory - jeden zostanie wolny.
-https://www.tme.eu/pl/details/lm2903pt/komparatory-smd/stmicroelectronics/
+https://www.tme.eu/pl/details/lm2903d-st/komparatory-smd/stmicroelectronics/lm2903d/
 
 SH8KC6TB1 to dwa tranzystory n-mos w jednej obudowie. 
 https://www.tme.eu/en/details/sh8kc6tb1/multi-channel-transistors/rohm-semiconductor/
